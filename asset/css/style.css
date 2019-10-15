@@ -1,0 +1,25 @@
+.header a, a:hover{
+color: #ffaa0e;
+    text-decoration: none;
+}
+.header h1{
+    text-decoration: none;
+    font-size: 300%;
+    letter-spacing: 1px;
+}
+.header p{
+    color: white !important;
+    font-size: 90%;
+    letter-spacing: 3px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #346270;
+}
+.nav-pills>li>a {
+color: #fff;
+    /*background-color: #346270;*/
+}
+.nav-pills>li>a:hover{
+    background-color: #346270 ;
+}
